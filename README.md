@@ -5,7 +5,7 @@ To maintain this website, there's a couple things that you will need to install 
 # Requirements
 
 ### Install [Ruby on Rails](https://www.ruby-lang.org/en/documentation/installation/)
-For a quick rundown on what the Rails framework is, please watch [this video](https://www.youtube.com/watch?v=UYm0kfnRTJk). \
+For a quick rundown on what the Rails framework is, please watch [this video](https://www.youtube.com/watch?v=UYm0kfnRTJk). 
 
 ### Install [Jekyll](https://jekyllrb.com/docs/installation/)
 We will be utilizing [Ruby Gems](https://medium.com/@morgannegagne/what-is-a-ruby-gem-1eec2684e68) to install Jekyll on top of Ruby.
