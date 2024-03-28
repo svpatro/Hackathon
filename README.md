@@ -19,12 +19,24 @@ VSCode is a lightweight text editor that can easily be transformed into an integ
 # Getting Started
 
 Once you have setup your developer environment, you should be able to run this command in your terminal: \
-``` git clone https://github.com/UWW-ISACA/hackathon.git ```
+` git clone https://github.com/UWW-ISACA/hackathon.git `
 
 If you have the correct version of Ruby & Jekyll installed, you should be able to run:\
-``` bundle install ```
+` bundle install `
 
 To generate a live mockup of the website, run:\
-``` bundle exec jekyll serve ```
+` bundle exec jekyll serve `
 
 To see the live site, visit `localhost` in your web browser.
+
+# Troubleshooting
+
+### Ruby Errors
+
+While Ruby installation is fairly straightforward, sometimes you run into versioning errors. This typically is a result of your computer not understanding which version of Ruby to use. For starters, try running `ruby -v` and note which version you have running. Anything below Ruby 3.0 isn't capable of running Jekyll.\
+\
+A great way to get rid of this issue is by using a version manager. While there are many version managers out there, probably the best one to use is chruby (change Ruby). 
+
+### Gem Errors
+
+If you experience Gem errors, check to see the version of Gem you are running. Anything below 2.0 will be incompatible with Jekyll.
