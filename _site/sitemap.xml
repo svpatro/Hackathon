@@ -41,4 +41,8 @@
 <url>
 <loc>http://localhost:4000/category/marketing/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/Sponsorship_Package.pdf</loc>
+<lastmod>2024-03-28T22:04:26+00:00</lastmod>
+</url>
 </urlset>
