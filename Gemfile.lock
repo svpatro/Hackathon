@@ -9,6 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    ffi (1.16.3)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -69,11 +70,11 @@ GEM
     tzinfo-data (1.2024.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-darwin-21
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
@@ -84,7 +85,6 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4.0)
   tzinfo
   tzinfo-data
-  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
