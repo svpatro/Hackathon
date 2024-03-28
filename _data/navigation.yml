@@ -1,16 +1,16 @@
 - name: Home
-  link: 
+  link: /
   new_window: false
   highlight: false
 - name: Community
-  link: 
+  link: /community/
   new_window: false
   highlight: false
 - name: Media
-  link: 
+  link: /media/
   new_window: false
   highlight: false
 - name: Sponsors
-  link: 
+  link: /sponsors/
   new_window: false
   highlight: true

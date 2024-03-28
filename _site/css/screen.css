@@ -33,7 +33,7 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 @media (min-width: 450px) { .testimonial .testimonial-block { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; } .testimonial .testimonial-block blockquote { -webkit-flex: 1; flex: 1; } }
 
-.hero { color: #ffffff; text-align: center; background: linear-gradient(to bottom, #4182e4 0%, #4182e4 100%) no-repeat #a05fb7; padding-top: 50px; }
+.hero { color: #ffffff; text-align: center; background: linear-gradient(to bottom, #4182e4 0%, #4182e4 100%) no-repeat #b75f5f; padding-top: 50px; }
 
 .hero p { color: #fff; }
 
