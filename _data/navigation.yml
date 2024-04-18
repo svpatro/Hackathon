@@ -2,8 +2,8 @@
   link: /
   new_window: false
   highlight: false
-- name: Community
-  link: /community/
+- name: Getting Started
+  link: /getting-started/
   new_window: false
   highlight: false
 - name: Media
